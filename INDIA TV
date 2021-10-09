@@ -10,7 +10,7 @@
     
 {"name":"India TV",image:"https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2020/04/24/indiatv.jpg?itok=KlEq3Jz7","url": "https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8"},
 
-{"name":"India News",image:"https://images.inkhabar.com/wp-content/uploads/2018/02/India-News-Live.png","url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"},
+{"name":"India News",image:"https://i.ytimg.com/vi/DBvTucmjvqw/hqdefault.jpg","url": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"},
 
 {"name":"India Today",image:"https://www.livetvmesh.com/wp-content/uploads/2018/09/India-Today-273x300.jpg","url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8"},
 
@@ -28,7 +28,7 @@
 
 {"name":"DD Punjabi",image:"https://www.smartads.in/resources/assets/uploads/product_group/Television/DD-Punjabi-Logo.jpg","url": "https://hls.media.nic.in/live/ddpunjabi1/index.m3u8"},
 
-{"name":"DD Sports",image:"https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg/revision/latest?cb=20160805130411","url": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
+{"name":"3TamilTV",image:"https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png","url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"},
 
 {"name":"Steelbird Music",image:"https://i.ytimg.com/vi/xzDqVQObyYw/maxresdefault.jpg","url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"},
 
@@ -51,6 +51,14 @@
 {"name":"BFlix Movies",image:"https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430","url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8"},
 
 {"name":"WOWCinemaOne",image:"https://dthorder.com/wp-content/uploads/channel/hindi-movies/wow-cinema-one.gif","url": "https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8"},
+
+{"name":"7SMusic",image:"https://pbs.twimg.com/profile_images/857130996499722241/n1sI-sPl.jpg","url": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8"},
+
+{"name":"9XJalwa",image:"https://i.imgur.com/6h83JRO.png","url": "http://14.199.164.20:4001/play/a0nc/index.m3u8"},
+
+{"name":"9XJhakaas",image:"https://i.imgur.com/aZ0f85I.png","url": "http://14.199.164.20:4001/play/a0mx/index.m3u8"},
+
+{"name":"9XM",image:"https://i.imgur.com/fD7wLka.jpg","url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"},
     
 ]
 }
