@@ -112,6 +112,8 @@
 
 {"name":"Wadyan TV",image:"http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/image/button/tbm.png","url": "https://live.thaitvstream.com/play/wadyantv/index.m3u8"},
 
+{"name":"RAY of Happness TV Station",image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR7jpQYmtYrtnLWOA6mkP4loKgg1cRy365VoyTVD8gaQTOOW2mI9V5pEGOGeEtuhOCyQI&usqp=CAU","url": "https://thaitvstream.com/application/mtvlive/count.php?id=31&url=https://live1.thaitvstream.com/play/rhptv/index.m3u8"},
+
 
 
 ]
