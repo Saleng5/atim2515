@@ -37,13 +37,16 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://host4.dynns.com/stream/7e069540a35942e89245865a84add64a.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
-http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
+https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.gmm25.com/asset/img/gmm25-logo.png",ช่อง GMM25
-http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60714.png",ช่อง CH8
-http://61.19.242.134/feed/202105171329/ch8/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
-http://61.19.242.134/feed/202105171329/chmono29/index.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
+https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg/revision/latest/scale-to-width-down/250?cb=20200703040406",ช่อง TNN16
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
