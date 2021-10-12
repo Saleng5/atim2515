@@ -50,3 +50,6 @@ http://host4.dynns.com/stream/fd23603db67344c69a8304a2fca268cd.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/640px-Jkn18.png",ช่อง JKN18
 http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_320.png",ช่อง ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
