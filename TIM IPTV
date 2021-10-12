@@ -4,7 +4,7 @@
 http://host4.dynns.com/stream/a4485b656d764f308c63b14a8bf62326.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://mpics.mgronline.com/pics/Images/559000011619001.JPEG",ช่อง 5
-https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
 http://host4.dynns.com/stream/ddfa47e726444446864b14e0e819fdde.m3u8
@@ -22,7 +22,7 @@ http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.jobsugoi.com/images/employer/1907/20191225144354110.png",ช่อง 8
-https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+http://61.19.242.134/feed/202105171329/ch8/index.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
 http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
@@ -31,4 +31,7 @@ http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
 http://host4.dynns.com/stream/623d009180394c528880c14e2254452a.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",ช่อง GMM 25
-https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+http://61.19.242.134/feed/202105171329/chgmm/index.m3u8
+
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://mpics.mgronline.com/pics/Images/564000004092001.JPEG",ช่อง JKN 18
+http://61.19.242.134/feed/202105171329/newtv/index.m3u8
