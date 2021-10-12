@@ -22,7 +22,7 @@ http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
 http://host4.dynns.com/stream/78f57ebcf6064b308d75208a20756983.m3u8
@@ -37,16 +37,16 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://host4.dynns.com/stream/7e069540a35942e89245865a84add64a.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
-https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
+http://host4.dynns.com/wevelwe/9ece9059930d4331a3d445f96fb30dff.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.gmm25.com/asset/img/gmm25-logo.png",ช่อง GMM25
-https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+http://host4.dynns.com/wevelwe/ab0b43ef8363438098a94101e93ca138.m3u8
 
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60714.png",ช่อง CH8
-https://freelive2.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+http://host4.dynns.com/wevelwe/15c52eeb21b748319771eb794a6cf242.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",ช่อง MONO29
-https://freelive2.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
+http://host4.dynns.com/wevelwe/fd23603db67344c69a8304a2fca268cd.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg/revision/latest/scale-to-width-down/250?cb=20200703040406",ช่อง TNN16
-https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/640px-Jkn18.png",ช่อง JKN18
+http://host4.dynns.com/wevelwe/0d01fdc1362f427ca5527c645f5f908f.m3u8
