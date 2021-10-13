@@ -54,11 +54,11 @@ http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
 #EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_320.png",ช่อง ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
-#EXTINF:-1 group-title="DIGITAL TV" tvg-logo="https://www.workpoint.co.th/Uploads/MediaBrowser/PressRelease/5b8c0565-f5bc-47ac-a0ed-3c5f4648e144-----20160728-work-news1-3.jpg.png",ช่อง WORKPOINT
-https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i2.wp.com/www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-4.png",ช่อง สำรวจโลก
+http://203.159.95.172:8081/live/explore/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://news.thaipbs.or.th/media/G0DL5oPyrtt5HBAi37NuFK8tsbTlxbLewTkhPqB9B7AfNUFmlb5PXt.jpg",ช่อง NATION
-https://freelive2.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F19%2F2171eaf4-036c-4958-ac0f-9d170d1faedf.png&w=320&h=240",ช่อง M Channel
+http://27.254.142.207:8080/live/web.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://images.topnews.co.th/2021/04/cropped-topnews-logo.png",ช่อง TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
@@ -66,5 +66,44 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQatjMC8f6AtxJMlon1eQO6CtW_LAsfqJOHx1aS99MsMl1PliNiwoFpDckRIwR-Fylfsws&usqp=CAU",ช่อง FWTOON
-https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/05/TVB-%E0%B9%84%E0%B8%97%E0%B8%A2-logo-08042020.png",ช่อง TVB Thai
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="data:image/png;base64,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",ช่อง MVTV SERIES
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2021/09/banterng110-1.png",ช่อง บันเทิงเกินร้อย 110
+https://edge6a.v2h-cdn.com/appt10/ThaEsan.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",ช่อง MVTV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/07-mvm.png",ช่อง MVTV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",ช่อง Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",ช่อง &Flix
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg",ช่อง &Prive
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",ช่อง Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2Ffebce46e-fb05-41d9-b294-08ecb3f1d1e6.png&w=320&h=240",ช่อง CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg",ช่อง CELESTIAL MOVIES
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914",ช่อง ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png",ช่อง Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",ช่อง Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
