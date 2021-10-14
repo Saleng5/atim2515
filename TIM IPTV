@@ -222,7 +222,7 @@ https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zpi6mQ3.png",ช่อง Animax Japan
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.at-x.com/favicon_android.png",ช่อง ATX
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.at-x.com/favicon_android.png",ช่อง AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",ช่อง CGNTV
@@ -269,3 +269,6 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
 #EXTINF:-1 group-title="WEATHER" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",ช่อง Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",ช่อง NHK General TV
+https://nhk1.mov3.co/hls/nhk.m3u8
