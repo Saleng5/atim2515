@@ -218,3 +218,54 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png",ช่อง Nick Jr
 https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/zpi6mQ3.png",ช่อง Animax Japan
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.at-x.com/favicon_android.png",ช่อง ATX
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",ช่อง CGNTV
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.fujitv.com/wp-content/uploads/2018/07/logo_ogp.png",ช่อง Fuji TV
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://i.imgur.com/8AM9fC8.jpg",ช่อง GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/7670/LINEStorePC/main.png;compress=true",ช่อง GAKI NO TSUKAI TV
+https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/90/225269.jpg",ช่อง Gunma TV
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/prowrestling/images/e/ec/NJPW_World.jpg/revision/latest?cb=20160912134443",ช่อง New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/SQISXoD.jpg",ช่อง NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/godzilla/images/0/07/Nippon_tv_logo_2014.png/revision/latest?cb=20140725194555",ช่อง Nippon TV
+https://ntv1.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",ช่อง NTV News24
+https://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1 group-title="SHOPPING" tvg-logo="https://i.imgur.com/3K36JEA.jpg",ช่อง Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://av.watch.impress.co.jp/img/avw/list/1244/682/tb01.jpg",ช่อง TBS
+https://tbs.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://seeklogo.com/images/T/tokyo-mx-logo-EACD417B21-seeklogo.com.jpg",ช่อง Tokyo MX
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2201J1390-L.jpg",ช่อง Tokyo MX 1
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2011221Q3340-L.jpg",ช่อง Tokyo MX 2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+
+#EXTINF:-1 group-title="WEATHER" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",ช่อง Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
