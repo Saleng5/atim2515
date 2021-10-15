@@ -272,3 +272,42 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",ช่อง NHK General TV
 https://nhk1.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png",ช่อง TVB 星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/PtG4GsH.jpg",ช่อง C+頻道
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.wiseknow.com/wp-content/uploads/2020/08/viutv_logo1.png",ช่อง VIU TV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="http://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg",ช่อง VIU TV SIX
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429",ช่อง TVB JADE
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG422936.jpg",ช่อง TVB J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="http://images2.wikia.nocookie.net/__cb20120913123458/evchk/images/d/d2/TVB_Pearl.png",ช่อง TVB Pearl
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="http://fltaradio.com/upload/2018/12/TVB-Finance-and-Information-Channel.jpg",ช่อง TVB Finance & Information
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",ช่อง RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305",ช่อง Now Sports Prime
+http://livetv.dnsfor.me:80/channel.12.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/oncc.png",ช่อง 東網直播1台
+https://streamw-az-news3.on.cc/video/playlist720p.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/oncc.png",ช่อง 東網直播2台
+https://streama-aws-news2.on.cc/src/remote1_hd.smil/chunklist_b1596000.m3u8
