@@ -311,3 +311,30 @@ https://streamw-az-news3.on.cc/video/playlist720p.m3u8
 
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/oncc.png",ช่อง 東網直播2台
 https://streama-aws-news2.on.cc/src/remote1_hd.smil/chunklist_b1596000.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136",ช่อง BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://thehorrorofbeingemily.com/wp-content/uploads/2018/02/Screamfest-logo-9-1-16-1.png",ช่อง Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/1366411943498686464/dQmyK9-b.jpg",ช่อง Shout! Factory TV
+https://shoutfactory-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mytvtogo.net/wp-content/uploads/2020/02/American-Horrors-1280x720-1.jpg",ช่อง American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png",ช่อง POP
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Bloody_Disgusting.PNG",ช่อง Bloody Disgusting
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.xumo.com/v1/channels/channel/9999302/300x300.png?type=smartCast_channelTile",ช่อง Hi-YAH
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png",ช่อง TVN Movies
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",ช่อง Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
