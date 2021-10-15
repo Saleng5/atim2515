@@ -288,7 +288,7 @@ http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1 group-title="GENERAL" tvg-logo="https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png/revision/latest?cb=20180530133429",ช่อง TVB JADE
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
-#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.nettv.live/uploads/18/1-1P40ZG422936.jpg",ช่อง TVB J2
+#EXTINF:-1 group-title="GENERAL" tvg-logo="http://chinesetelevision.weebly.com/uploads/2/0/9/5/20955862/9797413.jpg?191",ช่อง TVB J2
 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.tvchinese.net/uploads/tv/tvb-news.jpg",ช่อง TVB NEWS
