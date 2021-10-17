@@ -56,6 +56,10 @@ http://185.207.176.189:8080/channels/tv-97/playlist.m3u8
 #EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视
 http://185.207.176.189:8080/channels/tv-98/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视
+https://www.we-play.live/watching/tv/true-asian-more
+
+
 
 
 
