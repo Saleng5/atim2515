@@ -473,5 +473,10 @@
 {"name": "Fox Life","image": "https://cdn.i.haymarketmedia.asia/?n=campaign-asia%2Fcontent%2Ffoxlife_1200.png" ,"url": "http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8"},
 
 {"name": "Siam News TV Online","image": "https://www.siamnews.net/wp-content/uploads/2018/05/cropped-siamnews-bw-helv-square.png" ,"url": "https://thaitvstream.com/application/mtvlive/count.php?id=7&url=https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"},
+
+{"name": "M2","image": "https://static.wikia.nocookie.net/logopedia/images/6/6b/M2_logo.svg/revision/latest/scale-to-width-down/200?cb=20100529201936","url": 
+"https://cdn6.goprimetime.info/feed/202105171329/LC24/index.m3u8", "userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Safari/537.36"},
+
+{"name": "CCM","image": "https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" ,"url": "http://210.210.155.35/qwr9ew/s/s31/index.m3u8"},
 ]
 }
