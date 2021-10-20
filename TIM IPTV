@@ -338,3 +338,39 @@ http://210.210.155.35:80/dr9445/h/h21/01.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",ช่อง Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://mms.businesswire.com/media/20190404005486/en/714314/22/Loop_Logo.jpg",ช่อง Loop 90s
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBzmdnm_suucQ_6CXopLltBnjtylLW6Emfw&usqp=CAU",ช่อง Rewind TV
+https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://freeviewnz.tv/nonumbracoimages/ChannelsOpg/BreezeLogo1280x1280.png?w=300&h=236&mode=crop&format=jpg&bgcolor=F2F4F5",ช่อง The Breeze
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://qwest.tv/images/QLogoMusicMeets.png",ช่อง Qwest TV Jazz
+https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1T--4jsQlGV6lWYK4FWL3CQuEoAqvkF9c",ช่อง TAYARNFLIX
+http://st.livestations.tv/playlist_tayarnflix.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg",ช่อง THRILL
+http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://docs.google.com/uc?export=download&id=1WvH-4-AhUbApkJmKaQm8tbBZrfij0YCW",ช่อง AND
+https://live.thaitvstream.com/play/andtv/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="http://www.xn--72c4abacl8d8a5c1dfb5r2bk.com/image/button/aetv.png",ช่อง AETV
+https://live1.thaitvstream.com/play/aetv/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://image.roku.com/developer_channels/prod/71ab9ad5191ecb197dddaf62c5aca47db20cf006bed09c46e17c347e7ba63349.png",ช่อง Spydar TV
+https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://www.siamnews.net/wp-content/uploads/2018/05/cropped-siamnews-bw-helv-square.png",ช่อง Siam News TV Online
+https://thaitvstream.com/application/mtvlive/count.php?id=7&url=https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/1325839687215362048/B53Ca9Am_400x400.jpg",ช่อง HAUNT TV
+https://haunttv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ftv_logo.svg/1280px-Ftv_logo.svg.png",ช่อง FISHING TV
+http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
