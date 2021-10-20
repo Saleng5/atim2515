@@ -378,5 +378,5 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Leo_TV.png",ช่อง Leo TV/Extasy
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://www.pngitem.com/pimgs/m/110-1100190_file-under18-under-18-not-allowed-hd-png.png",ช่อง Weak
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/The_Adult_Channel_%281992-2003%29.png/revision/latest?cb=20200521221518",ช่อง Weak
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
