@@ -393,8 +393,8 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7e6f53ad-6452-4ca4-a8f0-7fa7fbe76d2a-profile_image-300x300.png",ช่อง CONtv
 https://contv-stirr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.imgur.com/WcxckL1.png",ช่อง Dabl
-http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/SAfy1us.png",ช่อง Stirr News 24/7
+https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/SXWX2Wf.png",ช่อง Deal or No Deal
 https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
@@ -500,6 +500,33 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png",ช่อง STIRR HSN
 https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/7SarjaU.png",ช่อง STIRR People TV
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.imgur.com/mWrqBaS.png",ช่อง STIRR Popstar! TV
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/tikW7wLc8E5FCt5niq_PhUFicWrU12nSgEfqfGFwyecdJLdhS-pBc9AS_WaN5lcM_WI",ช่อง STIRR SOAR
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://cdn11.bigcommerce.com/s-wq5l7bzi/images/stencil/1280x1280/products/5655/10729/BF-CD-SPACE-1999-1__52436.1614126550.jpg?c=2",ช่อง STIRR Space 1999
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg",ช่อง STIRR Stadium
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i1.wp.com/fontlot.com/wp-content/uploads/2021/06/3-3.jpg?fit=801%2C480&ssl=1",ช่อง STIRR Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://fredanderson.typepad.com/.a/6a017d4117b2c6970c01b7c6ebe7c2970b-600wi",ช่อง STIRR The Asylum
+https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง STIRR The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_First_TV_logo.png",ช่อง STIRR The First
+https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-miami-tv-life-3522.jpg",ช่อง Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
