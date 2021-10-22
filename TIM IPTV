@@ -390,7 +390,7 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png",ช่อง Comet
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483",ช่อง CONtv
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7e6f53ad-6452-4ca4-a8f0-7fa7fbe76d2a-profile_image-300x300.png",ช่อง CONtv
 https://contv-stirr.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.imgur.com/WcxckL1.png",ช่อง Dabl
@@ -399,7 +399,7 @@ http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/SXWX2Wf.png",ช่อง Deal or No Deal
 https://endemol-dealornodeal-1.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="FAMILY" tvg-logo="https://i.imgur.com/FVWqYQG.png",ช่อง Dove Channel
+#EXTINF:-1 group-title="FAMILY" tvg-logo="https://image.roku.com/developer_channels/prod/7c03a1e0e0067bdcab55b42f36cc235f5eee45d9bc7eef8de949508b6f1db808.png",ช่อง Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/FxYhME9.png",ช่อง Dust
@@ -432,7 +432,7 @@ https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/KidsClick.png",ช่อง KidsClick
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/HY64Nhe.png",ช่อง Law & Crime
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://lawandcrime.com/wp-content/uploads/2020/12/lawandcrime-defult-social.jpg",ช่อง Law & Crime
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/OaSFTnV.png",ช่อง LIVExLIVE
@@ -447,7 +447,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",ช่อง Newsy
 https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.imgur.com/ldh9sFG.png",ช่อง Outdoor America
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://image.roku.com/developer_channels/prod/e1abd2e3ea0aa5fc1d5dcccc160706e65849465b0be9de655551bdf2d2333fdc.png",ช่อง Outdoor America
 https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/X63rCqD.png",ช่อง Qello Concerts
@@ -477,25 +477,25 @@ https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.imgur.com/SAfy1us.png",ช่อง STIRR City
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/5X5Z5eg.png",ช่อง STIRR Docurama
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://image.roku.com/channels/images/b04d9db4528d410d92a83917d3f05330-hd.jpg",ช่อง STIRR Docurama
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://mms.businesswire.com/media/20200805005316/en/810566/22/Hero-Logo-vertical-black.jpg",ช่อง STIRR evrgrn
 https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/nbzbHum.png",ช่อง STIRR FailArmy
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/3150/1*mRyuYGbpvUg9p4er7phzZw.jpeg",ช่อง STIRR FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/X7U7ikq.png",ช่อง STIRR FilmRise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://i.imgur.com/H2hD4vT.png",ช่อง STIRR Gravitas Movies
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://play-lh.googleusercontent.com/e_OKfo8aV56Jvwo6DtaP6FpiTv9HFDM324H3f01deil_uC7IpMEyPIFqaiEX_Cd0fwiE",ช่อง STIRR Gravitas Movies
 https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD" tvg-logo="https://i.imgur.com/ygVGi3s.png",ช่อง STIRR Gusto TV
 https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/0a9b36ef-1240-47c1-a7e6-5ed04648ad72-small3x1_stirr_1219_epg_stirrhorror_1920x1080.png?cb=a87ff679a2f3e71d9181a67b7542122c",ช่อง STIRR Horror Movies
+#EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-mFc5qiUKCCCyxu1M5S0iOznAojXkoA1H3HZ3vSgmmr2Q3TzkmY6OGzFsZWf52OwiCo&usqp=CAU",ช่อง STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 
 #EXTINF:-1 group-title="SHOPPING" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png",ช่อง STIRR HSN
