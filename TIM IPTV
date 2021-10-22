@@ -516,8 +516,8 @@ https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s23455.pcdn.co/wp-content/uploads/2018/08/stadium-logo-640.jpeg",ช่อง STIRR Stadium
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i1.wp.com/fontlot.com/wp-content/uploads/2021/06/3-3.jpg?fit=801%2C480&ssl=1",ช่อง STIRR Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Truly.png/revision/latest?cb=20201031102457",ช่อง STIRR Truly
+https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-logo="https://fredanderson.typepad.com/.a/6a017d4117b2c6970c01b7c6ebe7c2970b-600wi",ช่อง STIRR The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
