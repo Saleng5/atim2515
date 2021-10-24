@@ -585,14 +585,17 @@ http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/The_Adult_Channel_%281992-2003%29.png/revision/latest?cb=20200521221518",ช่อง Weak
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg",ช่อง Filmon Erotic Sensations
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULT" tvg-logo="https://koditips.com/wp-content/uploads/filmon-not-working.jpg",ช่อง Filmon Fetish Factory
-https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
 http://cdn.adultiptv.net/anal.m3u8
 
 #EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="ADULT" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
